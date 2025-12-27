@@ -64,13 +64,14 @@ Password:
 
 Estructura del proyecto
 
-src/main/java
-└── com/backend/ecommerce
-    ├── controller
-    ├── model
-    ├── repository
-    ├── config
-    └── EcommerceBackendApplication.java
+src/main/java  
+└── com/backend/ecommerce  
+    ├── controller  
+    ├── model  
+    ├── repository  
+    ├── config  
+    └── EcommerceBackendApplication.java  
+
 
 Autor
 
